@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coloquio Cohesión Social 2018</title>
-    <link>http://example.com/</link>
+    <link>https://coloquio.github.io/</link>
     <description>Recent content on Coloquio Cohesión Social 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,16 +11,34 @@
     <copyright>(c) 2018 vicente espinoza</copyright>
     <lastBuildDate>Fri, 01 Jun 2018 12:27:33 -0400</lastBuildDate>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coloquio.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Invita</title>
-      <link>http://example.com/2018/06/01/invita/</link>
+      <link>https://coloquio.github.io/2018/06/01/invita/</link>
       <pubDate>Fri, 01 Jun 2018 12:27:33 -0400</pubDate>
       <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
-      <guid>http://example.com/2018/06/01/invita/</guid>
+      <guid>https://coloquio.github.io/2018/06/01/invita/</guid>
       <description>Estimados investigadores del COES. Queremos invitarles a participar en un ciclo de conversaciones referidas los desafíos teóricos y empíricos del estudio de la cohesión social a partir del análisis de las redes interpersonales. En el seminario se espera que los investigadores del COES compartan y comenten avances de investigación, así como trabajos más conceptuales. El coloquio se inscribe en el marco del proyecto Fondecyt 1171426, que aborda temas como los factores que inciden en la formación de redes sociales; los efectos de composición de redes sobre comportamientos y opiniones, y su localización geográfica.</description>
+    </item>
+    
+    <item>
+      <title>Programación Coloquio Redes</title>
+      <link>https://coloquio.github.io/programa/</link>
+      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/programa/</guid>
+      <description>Programa: Coloquio: Sociabilidad, convivencia y cohesión, miradas desde las redes interpersonales  Aproximaciones estructurales a la cohesión en la sociedad chilena (30 mayo). Vicente Espinoza. Comentario J.C. Castillo Homofilia como micro-relato de la desigualdad social. 20 junio. Matías Bargsted. Comentario Héctor Carvacho Perspectiva multiescalar sobre segregación social y conflicto territorial. 25 julio. Matías Garretón. Comenta: Claudia Sanhueza Paula Luengo + Christian Berger. Redes personales y civismo en adolescentes. Comenta: por definir.</description>
+    </item>
+    
+    <item>
+      <title>Convocatoria Coloquio Redes</title>
+      <link>https://coloquio.github.io/2018/05/30/convocatoria-coloquio-redes/</link>
+      <pubDate>Wed, 30 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/2018/05/30/convocatoria-coloquio-redes/</guid>
+      <description>Convocatoria coloquio COES Cohesión Social Sociabilidad, convivencia y cohesión, miradas desde las redes interpersonales ¿Cómo se pasa de niveles de interacción microsocial a estructuras sociales de gran escala? ¿Cómo influen los lazos fuertes de grupos cercanos en la confianza en otros y en las instituciones? El análisis de redes sociales entre personas, de la calidad de estos vínculos sociales y del reconocimiento entre miembros de una sociedad son claves para entender la cohesión social desde la estructura de las relaciones interpersonales, superando enfoques normativos basados en definiciones a priori de la legitimidad de creencias e instituciones.</description>
     </item>
     
   </channel>

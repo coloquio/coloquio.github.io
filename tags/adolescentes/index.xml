@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adolescentes on Coloquio Cohesión Social 2018</title>
+    <link>https://coloquio.github.io/tags/adolescentes/</link>
+    <description>Recent content in Adolescentes on Coloquio Cohesión Social 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</managingEditor>
+    <webMaster>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</webMaster>
+    <copyright>(c) 2018 vicente espinoza</copyright>
+    <lastBuildDate>Thu, 31 May 2018 12:27:33 -0400</lastBuildDate>
+    
+	<atom:link href="https://coloquio.github.io/tags/adolescentes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programación Coloquio Redes</title>
+      <link>https://coloquio.github.io/programa/</link>
+      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/programa/</guid>
+      <description>Programa: Coloquio: Sociabilidad, convivencia y cohesión, miradas desde las redes interpersonales  Aproximaciones estructurales a la cohesión en la sociedad chilena (30 mayo). Vicente Espinoza. Comentario J.C. Castillo Homofilia como micro-relato de la desigualdad social. 20 junio. Matías Bargsted. Comentario Héctor Carvacho Perspectiva multiescalar sobre segregación social y conflicto territorial. 25 julio. Matías Garretón. Comenta: Claudia Sanhueza Paula Luengo + Christian Berger. Redes personales y civismo en adolescentes. Comenta: por definir.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,48 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/2018/06/01/invita/</loc>
+    <loc>https://coloquio.github.io/2018/06/01/invita/</loc>
     <lastmod>2018-06-01T12:27:33-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://coloquio.github.io/programa/</loc>
+    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/2018/05/30/convocatoria-coloquio-redes/</loc>
+    <lastmod>2018-05-30T12:27:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/adolescentes/</loc>
+    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/coes/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <loc>https://coloquio.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/fondecyt/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/post/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/redes/</loc>
+    <loc>https://coloquio.github.io/tags/coes/</loc>
     <lastmod>2018-06-01T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://coloquio.github.io/tags/cohesi%C3%B3n-social/</loc>
+    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/</loc>
     <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/elsoc/</loc>
+    <lastmod>2018-05-30T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/fondecyt/</loc>
+    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/homofilia/</loc>
+    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/post/</loc>
+    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/redes/</loc>
+    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/</loc>
+    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/territorio/</loc>
+    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   

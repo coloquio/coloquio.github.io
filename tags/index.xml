@@ -2,42 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Coloquio Cohesión Social 2018</title>
-    <link>http://example.com/tags/</link>
+    <link>https://coloquio.github.io/tags/</link>
     <description>Recent content in Tags on Coloquio Cohesión Social 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</managingEditor>
     <webMaster>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</webMaster>
     <copyright>(c) 2018 vicente espinoza</copyright>
-    <lastBuildDate>Fri, 01 Jun 2018 12:27:33 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 12:27:33 -0400</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coloquio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Adolescentes</title>
+      <link>https://coloquio.github.io/tags/adolescentes/</link>
+      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/tags/adolescentes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coes</title>
-      <link>http://example.com/tags/coes/</link>
+      <link>https://coloquio.github.io/tags/coes/</link>
       <pubDate>Fri, 01 Jun 2018 12:27:33 -0400</pubDate>
       <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
-      <guid>http://example.com/tags/coes/</guid>
+      <guid>https://coloquio.github.io/tags/coes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cohesión Social</title>
+      <link>https://coloquio.github.io/tags/cohesi%C3%B3n-social/</link>
+      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/tags/cohesi%C3%B3n-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elsoc</title>
+      <link>https://coloquio.github.io/tags/elsoc/</link>
+      <pubDate>Wed, 30 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/tags/elsoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fondecyt</title>
-      <link>http://example.com/tags/fondecyt/</link>
+      <link>https://coloquio.github.io/tags/fondecyt/</link>
       <pubDate>Fri, 01 Jun 2018 12:27:33 -0400</pubDate>
       <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
-      <guid>http://example.com/tags/fondecyt/</guid>
+      <guid>https://coloquio.github.io/tags/fondecyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homofilia</title>
+      <link>https://coloquio.github.io/tags/homofilia/</link>
+      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/tags/homofilia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redes</title>
-      <link>http://example.com/tags/redes/</link>
+      <link>https://coloquio.github.io/tags/redes/</link>
       <pubDate>Fri, 01 Jun 2018 12:27:33 -0400</pubDate>
       <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
-      <guid>http://example.com/tags/redes/</guid>
+      <guid>https://coloquio.github.io/tags/redes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Territorio</title>
+      <link>https://coloquio.github.io/tags/territorio/</link>
+      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
+      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
+      <guid>https://coloquio.github.io/tags/territorio/</guid>
       <description></description>
     </item>
     
