@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://coloquio.github.io/2018/06/25/presentaci%C3%B3n-27-junio-2018/</loc>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/2018/06/20/resumen-ejecutivo-fondecyt-1171426/</loc>
+    <lastmod>2018-06-20T12:27:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/2018/06/10/equipo-fondecyt-1171426/</loc>
+    <lastmod>2018-06-10T12:27:33-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://coloquio.github.io/2018/06/01/invita/</loc>
     <lastmod>2018-06-01T12:27:33-04:00</lastmod>
   </url>
@@ -14,16 +29,6 @@
   
   <url>
     <loc>https://coloquio.github.io/2018/05/30/convocatoria-coloquio-redes/</loc>
-    <lastmod>2018-05-30T12:27:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://coloquio.github.io/2018/05/30/resumen-ejecutivo-fondecyt-1171426/</loc>
-    <lastmod>2018-05-30T12:27:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://coloquio.github.io/2018/05/30/resumen-ejecutivo-fondecyt-1171426/</loc>
     <lastmod>2018-05-30T12:27:33-04:00</lastmod>
   </url>
   
@@ -40,7 +45,7 @@
   
   <url>
     <loc>https://coloquio.github.io/tags/coes/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-20T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,37 +57,43 @@
   
   <url>
     <loc>https://coloquio.github.io/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://coloquio.github.io/tags/elsoc/</loc>
-    <lastmod>2018-05-30T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-20T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://coloquio.github.io/tags/fondecyt/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://coloquio.github.io/tags/homofilia/</loc>
-    <lastmod>2018-05-31T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coloquio.github.io/tags/modelos-log-lineales/</loc>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://coloquio.github.io/post/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://coloquio.github.io/tags/redes/</loc>
-    <lastmod>2018-06-01T12:27:33-04:00</lastmod>
+    <lastmod>2018-06-25T12:27:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   

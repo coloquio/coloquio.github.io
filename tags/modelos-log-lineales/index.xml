@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homofilia on Coloquio Cohesión Social 2018</title>
-    <link>https://coloquio.github.io/tags/homofilia/</link>
-    <description>Recent content in Homofilia on Coloquio Cohesión Social 2018</description>
+    <title>Modelos Log Lineales on Coloquio Cohesión Social 2018</title>
+    <link>https://coloquio.github.io/tags/modelos-log-lineales/</link>
+    <description>Recent content in Modelos Log Lineales on Coloquio Cohesión Social 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>(c) 2018 vicente espinoza</copyright>
     <lastBuildDate>Mon, 25 Jun 2018 12:27:33 -0400</lastBuildDate>
     
-	<atom:link href="https://coloquio.github.io/tags/homofilia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coloquio.github.io/tags/modelos-log-lineales/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
       <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
       <guid>https://coloquio.github.io/2018/06/25/presentaci%C3%B3n-27-junio-2018/</guid>
       <description>La homofilia como microrelato de al desigualdad Presenta:  Matías Bargsted  Comenta:  Héctor Carvacho  Resumen La presentación caracteriza los niveles de homofilia en Chile, esto es, la tendencia a que las relaciones sociales vinculen a personas socialmente similares. El estudio de esta propensión social permite comprender las bases de la cohesión y el conflicto en la sociedad actual. De una parte, la homofilia puede promover la integración social de personas en grupos sociales; pero de la otra, puede favorecer relaciones cerradas, y con ello la reproducción de una estructura social rígida y fragmentada.</description>
-    </item>
-    
-    <item>
-      <title>Programación Coloquio Redes</title>
-      <link>https://coloquio.github.io/programa/</link>
-      <pubDate>Thu, 31 May 2018 12:27:33 -0400</pubDate>
-      <author>vicente.espinoza@usach.cl (COES &amp; IDEA-USACH)</author>
-      <guid>https://coloquio.github.io/programa/</guid>
-      <description>Programa: Coloquio: Sociabilidad, convivencia y cohesión, miradas desde las redes interpersonales  Aproximaciones estructurales a la cohesión en la sociedad chilena (30 mayo). Vicente Espinoza. Comentario J.C. Castillo Homofilia como micro-relato de la desigualdad social. 20 junio. Matías Bargsted. Comentario Héctor Carvacho Perspectiva multiescalar sobre segregación social y conflicto territorial. 25 julio. Matías Garretón. Comenta: Claudia Sanhueza Paula Luengo + Christian Berger. Redes personales y civismo en adolescentes. Comenta: por definir.</description>
     </item>
     
   </channel>
